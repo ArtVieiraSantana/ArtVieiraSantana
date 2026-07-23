@@ -12,7 +12,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andresmurillo/andresmurillo/main/rainbow-line.svg" width="100%"/>
+---
 
 ## 🚀 Sobre Mim
 
@@ -49,10 +49,12 @@ Minha jornada começou com a curiosidade em entender como as coisas funcionam, e
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ArtVieiraSantana&show_icons=true&theme=transparent&hide_border=true&title_color=DC143C&icon_color=DC143C&text_color=FFFFFF&bg_color=00000000&ring_color=DC143C"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtVieiraSantana&layout=compact&theme=transparent&hide_border=true&title_color=DC143C&text_color=FFFFFF&bg_color=00000000"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ArtVieiraSantana&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=DC143C&icon_color=DC143C&text_color=FFFFFF"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtVieiraSantana&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=DC143C&text_color=FFFFFF"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArtVieiraSantana&theme=transparent&hide_border=true&background=00000000&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" width="48%"/>
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArtVieiraSantana&theme=radical&hide_border=true&background=0D0D0D&ring=DC143C&fire=DC143C&currStreakLabel=DC143C" width="60%"/>
 
 </div>
 
@@ -108,19 +110,7 @@ Um jogo RPG de texto em Java que contém áudio para suavizar a experiência do 
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ArtVieiraSantana&theme=darkhub&no-frame=true&no-bg=true&column=6&row=1&title.color=DC143C)
-
-</div>
-
-<br/>
-
-## 📈 Atividade Recente
-
-<div align="center">
-
-<!--START_SECTION:activity-->
-<!-- Este bloco pode ser preenchido automaticamente pela GitHub Action "github-activity-readme" -->
-<!--END_SECTION:activity-->
+![trophy](https://github-profile-trophy.vercel.app/?username=ArtVieiraSantana&theme=darkhub&column=7&margin-w=15&margin-h=15)
 
 </div>
 
