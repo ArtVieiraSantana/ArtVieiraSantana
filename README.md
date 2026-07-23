@@ -74,12 +74,12 @@ Sistema web para gerenciamento de acesso em condomínios e empresas, com cadastr
 </td>
 <td width="33%" align="center">
 
-### 🧥 Zero Grau Streetwear
+### 📚 Papelaria Landing Page
 
-Conceito da marca montado em dupla e código feito por mim seguindo documentação específica. Uma vivência bem real do mundo da programação.
+Landing page desenvolvida para apresentar os produtos e serviços de uma papelaria, com design responsivo, navegação intuitiva e foco em destacar a identidade visual da marca e facilitar o contato com clientes.
 
-<a href="https://artvieirasantana.github.io/ZeroGrau/" target="_blank">
-<img src="https://img.shields.io/badge/Ver%20Projeto-DC143C?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto Zero Grau Streetwear">
+<a href="https://github.com/ArtVieiraSantana/Papelaria_landing_page" target="_blank">
+<img src="https://img.shields.io/badge/Ver%20Projeto-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto Papelaria Landing Page">
 </a>
 
 </td>
@@ -91,17 +91,6 @@ Um jogo RPG de texto em Java que contém áudio para suavizar a experiência do 
 
 <a href="https://github.com/stapani7/Grupo-3---Turma-A" target="_blank">
 <img src="https://img.shields.io/badge/Ver%20Projeto-DC143C?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto Jogo Java">
-</a>
-
-</td>
-<td width="33%" align="center">
-
-### 📚 Papelaria Landing Page
-
-Landing page desenvolvida para apresentar os produtos e serviços de uma papelaria, com design responsivo, navegação intuitiva e foco em destacar a identidade visual da marca e facilitar o contato com clientes.
-
-<a href="https://github.com/ArtVieiraSantana/Papelaria_landing_page" target="_blank">
-<img src="https://img.shields.io/badge/Ver%20Projeto-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto Papelaria Landing Page">
 </a>
 
 </td>
