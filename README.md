@@ -49,11 +49,6 @@ Minha jornada começou com a curiosidade em entender como as coisas funcionam, e
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ArtVieiraSantana&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=DC143C&icon_color=DC143C&text_color=FFFFFF"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtVieiraSantana&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=DC143C&text_color=FFFFFF"/>
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArtVieiraSantana&theme=radical&hide_border=true&background=0D0D0D&ring=DC143C&fire=DC143C&currStreakLabel=DC143C" width="60%"/>
 
 </div>
@@ -68,12 +63,12 @@ Minha jornada começou com a curiosidade em entender como as coisas funcionam, e
 <tr>
 <td width="33%" align="center">
 
-### 🏋️ HardWork
+### Portaria Digital
 
-Projeto de um site de suplementação com **Angular CRUD**. Participei auxiliando na produção do código em HTML e CSS, além de ajudar na criação do conceito da marca e sua identidade.
+Sistema web para gerenciamento de acesso em condomínios e empresas, com cadastro de moradores, visitantes e prestadores de serviço, além do registro de entradas e saídas de forma segura e organizada(login:sindico senha:654321).
 
-<a href="https://stapani7.github.io/HardWork" target="_blank">
-<img src="https://img.shields.io/badge/Ver%20Projeto-DC143C?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto HardWork">
+<a href="https://portaria-digital.onrender.com/" target="_blank">
+<img src="https://img.shields.io/badge/Acessar%20Sistema-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Acessar Sistema Portaria Digital">
 </a>
 
 </td>
@@ -99,18 +94,17 @@ Um jogo RPG de texto em Java que contém áudio para suavizar a experiência do 
 </a>
 
 </td>
+<td width="33%" align="center">
+
+### 📚 Papelaria Landing Page
+
+Landing page desenvolvida para apresentar os produtos e serviços de uma papelaria, com design responsivo, navegação intuitiva e foco em destacar a identidade visual da marca e facilitar o contato com clientes.
+
+<a href="https://github.com/ArtVieiraSantana/Papelaria_landing_page" target="_blank">
+<img src="https://img.shields.io/badge/Ver%20Projeto-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto Papelaria Landing Page">
+</a>
 </tr>
 </table>
-
-</div>
-
-<br/>
-
-## 🏆 Troféus
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=ArtVieiraSantana&theme=darkhub&column=7&margin-w=15&margin-h=15)
 
 </div>
 
