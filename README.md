@@ -103,6 +103,8 @@ Landing page desenvolvida para apresentar os produtos e serviços de uma papelar
 <a href="https://github.com/ArtVieiraSantana/Papelaria_landing_page" target="_blank">
 <img src="https://img.shields.io/badge/Ver%20Projeto-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto Papelaria Landing Page">
 </a>
+
+</td>
 </tr>
 </table>
 
