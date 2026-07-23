@@ -66,8 +66,3 @@ Estou sempre aberto a novas oportunidades e projetos interessantes. Entre em con
 
 ---
 
-## Referências
-
-[1]: https://github.com/denvercoder1/readme-typing-svg "readme-typing-svg. Disponível em:"
-
-[2]: https://shields.io/ "Shields.io. Disponível em:"
